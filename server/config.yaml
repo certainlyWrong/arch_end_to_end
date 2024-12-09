@@ -1,0 +1,5 @@
+name: "API REST"
+port: 3000
+host: "localhost"
+database: "database.json"
+idType( uuid | int ): "uuid"

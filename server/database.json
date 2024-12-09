@@ -1,0 +1,64 @@
+{
+    "people": [
+        {
+            "id": 0,
+            "name": "Ana Silva",
+            "email": "ana.silva@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/women/10.jpg"
+        },
+        {
+            "id": 1,
+            "name": "João Santos",
+            "email": "joao.santos@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/men/11.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Maria Oliveira",
+            "email": "maria.oliveira@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Carlos Pereira",
+            "email": "carlos.pereira@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/men/13.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Beatriz Costa",
+            "email": "beatriz.costa@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/women/14.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Fernando Souza",
+            "email": "fernando.souza@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Camila Rocha",
+            "email": "camila.rocha@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/women/16.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Pedro Lima",
+            "email": "pedro.lima@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/men/17.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Juliana Martins",
+            "email": "juliana.martins@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/women/18.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Roberto Alves",
+            "email": "roberto.alves@example.com",
+            "profile_picture": "https://randomuser.me/api/portraits/men/19.jpg"
+        }
+    ]
+}
